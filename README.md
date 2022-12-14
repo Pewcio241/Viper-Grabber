@@ -106,10 +106,8 @@ this to your victims.😈
 
 ![image](https://user-images.githubusercontent.com/120605212/207727728-20aa7af5-ff86-4925-94b9-c97f3e1a0ac4.png)
 ![image](https://user-images.githubusercontent.com/120605212/207727830-39700fb3-4b14-4fb6-8d6a-f4cec3ddfbea.png)
+![image](https://user-images.githubusercontent.com/120605212/207734242-5fb56940-a322-4f5f-94e4-428d009facae.png)
 
-
-
-![image](https://user-images.githubusercontent.com/120605212/207727998-2e364fe9-0f47-406c-90da-25f4608fc0a7.png)
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
