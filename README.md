@@ -13,43 +13,54 @@
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </div>
   
-### Features:
+## Features
 
-- `Token`🟢
-- `Discord Name`🟢
-- `Google Passwords`🟢
-- `Google Cookies`🟢
-- `IP`🟢
-- `Phone Number`🟢
-- `Email`🟢
-- `If They Have Billing`🟢
-- `If They Have Nitro`🟢
-- `What OS They're Using`🟢
-- `RAM`🟢
-- `GPU`🟢
-- `CPU`🟢
-- `Injection`🟢
-- `Browser History`🟢
-- `Wifi Passwords`🟢
-- `Minecraft Session Info`🟢
-- `Epic Games Offline Data`🟢
-- `2FA Enabled Or Not`🟢
-- `Gift Inventory Codes`🟢
-- `Discord Backup Codes`🟢
-- `Credit Cards`🟢
-- `Fake Error`🟢
-- `Obfuscation`🟢
-- `Condense .Exe Size`🟢
-- `Icon For .Exe (optional)`🟢
-- `Add File To Startup`🟢
-- `Anti Spam (just prevents from multiple instances running at once)`🟢
-- `Bypass Token Protector`🟡
-- `Binder`🟡
-- `WebCam Screenshot (optional)`🟡
+- Discord Info
+    - Token
+    - Nitro
+    - Billing
+    - 2FA 
+    - Email
+    - Phone
+    - Gift Codes
+    - Backup Codes
 
-🟢 = Added | 🟡 = To Do | 🔴 = Not Adding
+- Browser Data
+    - Cookies
+    - Passwords
+    - History
+    - Credit/Debit Cards
 
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+- Game Data
+	- Minecraft Session Info
+	- Roblox Cookie & Other Data
+
+- Discord Injection
+    - Sends token, password & email on user login or when user changes password
+
+- System info
+    - User
+    - OS
+    - System
+    - Network IP
+    - Wifi
+    - Mac
+    - Hwid
+    - PC Specs
+    - Screenshot
+
+- Grabber Functions
+    - Checks if being run in a virustotal sandbox/virtual machine
+    - Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
+    - Adds file to startup
+    - Anti Spam
+    - Fake Error
+    - Obfuscation
+    - Icon (optional)
+    - Low Detections
+    - Bypass Token Protector
+ 
+<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 
 ## Setup
 
